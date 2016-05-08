@@ -1,0 +1,12 @@
+title: mehlinger.me
+email: tmehlinger@gmail.com
+description: I discuss Python, technology, and being a good citizen.
+baseurl: ""
+url: "https://mehlinger.me"
+twitter_username: maber
+github_username:  tmehlinger
+
+markdown: kramdown
+paginate: 10
+paginate_path: "/blog/:num"
+gems: [jekyll-paginate]
