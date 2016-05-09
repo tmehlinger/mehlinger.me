@@ -5,8 +5,10 @@ baseurl: ""
 url: "https://mehlinger.me"
 twitter_username: maber
 github_username:  tmehlinger
+linkedin_username:  mehlinger
 
 markdown: kramdown
 paginate: 10
 paginate_path: "/blog/:num"
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
