@@ -6,6 +6,6 @@ permalink: /oss/
 
 <div class="subsection">
 
-* [Squishy]("https://github.com/tmehlinger/squishy")
+* [Squishy](https://github.com/tmehlinger/squishy)
 
 </div>

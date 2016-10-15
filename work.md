@@ -8,7 +8,7 @@ permalink: /work/
 
 ## present
 
-I am currently a Platform Engineer working on [Loop]("https://loopk12.com/") by Dewsly. I automate, optimize, and measure all the things.
+I am currently a Platform Engineer working on [Loop](https://loopk12.com/) by Dewsly. I automate, optimize, and measure all the things.
 
 </div>
 
